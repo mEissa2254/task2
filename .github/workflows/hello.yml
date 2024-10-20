@@ -16,4 +16,4 @@ jobs:
           python-version: '3.x'
 
       - name: Run Python script
-        run: python he1l0.py
+        run: he1lo.py
